@@ -29,7 +29,9 @@
 
 		"outerColor": [16,16,16],
 		"innerColor": [255,200,200],
-		"unique": "MANIFEST_DESTINY",
+  "uniqueName": "Human Experimentation",
+                "uniques": ["Earn [100]% of killed [Military] unit's [Strength] as [Science]"],
+
 		"cities": ["Kilrah","H'rissth","G'mar","T'lan Meth","K'hrissak","H'hrass","G'wriss","H'rekkah","K'tithrak Mang",
     			"Kher-za","H'hrass","Kur'u'tak","Ghoran","M'hriss","Draga","Tal'q","Ka","Firekka","Khark-Pa","K'za T'qal",
     			"Vordran","Jugara","Ghorah Khar","Hralgkrak","K'sk'taq","T'kon","K'ta Mek","Trak'mar","Z'rakha", "Khar'raxx", 
