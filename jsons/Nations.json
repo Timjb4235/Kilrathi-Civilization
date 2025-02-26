@@ -30,9 +30,9 @@
 		"outerColor": [16,16,16],
 		"innerColor": [255,200,200],
 		"unique": "MANIFEST_DESTINY",
-		"cities": ["Kilrah","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"cities": ["Kilrah","H'rissth","G'mar","T'lan Meth","K'hrissak","H'hrass","G'wriss","H'rekkah","K'tithrak Mang",
+    			"Kher-za","H'hrass","Kur'u'tak","Ghoran","M'hriss","Draga","Tal'q","Ka","Firekka","Khark-Pa","K'za T'qal",
+    			"Vordran","Jugara","Ghorah Khar","Hralgkrak","K'sk'taq","T'kon","K'ta Mek","Trak'mar","Z'rakha", "Khar'raxx", 
+			"G'zalak", "T'risshka", "H'rak'ta", "M'khet'ta", "Th'korha"]
 	}
 ]
