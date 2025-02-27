@@ -5,6 +5,7 @@
 		"adjective": ["Kilrathi"],
 		"startBias": ["Plains"],
 		"preferredVictoryType": "Domination",
+  "personality": "Thrakhath",
 		
 		"startIntroPart1": "Welcome to the throne, Emperor Thrakhath nar Kiranka. The clans stand ready to follow you.",
 		"startIntroPart2": "May the blood of our enemies run freely and may they flee before the might of Kilrah.",
