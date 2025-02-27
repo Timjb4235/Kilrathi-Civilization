@@ -1,0 +1,31 @@
+[
+  {
+    "name": Thrakhath",
+    "production": ,
+    "food": ,
+    "gold": ,
+    "science": ,
+    "culture": ,
+    "happiness": ,
+    "faith": ,
+    "military": ,
+    "aggressive": 8,
+    "declareWar": ,
+    "commerce": ,
+    "diplomacy": ,
+    "loyal": ,
+    "expansion": ,
+    "priorities": {
+      "Tradition": ,
+      "Liberty": ,
+      "Honor": ,
+      "Commerce": ,
+      "Patronage": ,
+      "Piety": ,
+      "Rationalism": ,
+      "Freedom": ,
+      "Autocracy": ,
+      "Order": 
+    }
+  }
+]
